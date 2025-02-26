@@ -2,3 +2,4 @@ Oi
 Adiconado 2
 Force push
 add rejeicao
+agora vai ser aceito
